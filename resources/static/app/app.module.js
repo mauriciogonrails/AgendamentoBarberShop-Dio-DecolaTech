@@ -1,0 +1,1 @@
+const agendamentoService = new AgendamentoService();
